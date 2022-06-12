@@ -8,8 +8,8 @@ All bert based models 12 Layers and 110M parameters with 768 Hidden and equal em
 
 Text Classification Accuracies:
 
-Albert	77.45%
-Roberta	95%
-BART	~100%
-DistillBert Base Cased	91%
-BERT Base Cased	51%
+Albert	77.45% \n
+Roberta	95%\n
+BART	~100%\n
+DistillBert Base Cased	91%\n
+BERT Base Cased	51%\n
